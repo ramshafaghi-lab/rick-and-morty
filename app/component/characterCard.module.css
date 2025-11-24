@@ -1,0 +1,13 @@
+
+
+.chracterCard {
+     background-color: #434643;
+    height: 200px;
+    width: 33%;
+    align-items: center;
+    border-radius: 10px;
+    margin: 25px 25px 25px;
+    padding: 25px;
+
+}
+
