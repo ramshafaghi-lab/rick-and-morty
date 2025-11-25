@@ -234,8 +234,11 @@ img{
 .footer {
   width: 100%;
   height: 500;
-  display: flex;
+  margin: 0;
+  /* display: flex; */
   background-color: cadetblue;
+  text-align: center;
+  font-size: 55;
 }
 
 @media screen and (max-width: 1270px) {
@@ -260,7 +263,10 @@ img{
  .page-intro h1 {
      font-size: 70;
   }
-
+.header {
+ 
+  box-shadow: 5 1 2 #ccc;
+ }
 }
 @media screen and (max-width: 650px){
 
